@@ -1,3 +1,7 @@
+# 1. plan
+# 2. apply
+# 3. destroy
+
 terraform {
   required_providers {
     aws = {
